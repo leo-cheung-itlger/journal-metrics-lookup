@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.csv
+*.zip
+/data/
+/snapshots/
+/manifest.json
+/manifest.json.tmp

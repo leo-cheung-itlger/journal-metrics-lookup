@@ -1,0 +1,5 @@
+interface:
+  display_name: "期刊指标查询"
+  short_description: "通过 DOI、期刊名或 ISSN 查询 JIF、JCR 与中科院分区并保留来源和核实状态"
+policy:
+  allow_implicit_invocation: true
